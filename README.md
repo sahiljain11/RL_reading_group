@@ -10,4 +10,6 @@
 - Friday 1:30-2:30PM every Friday (unless otherwise stated)
 
 ### Next Meeting
-- Saturday January 1st, 2021 from 1:30-2:30PM
+- Saturday January 15th, 2021 from 2:30-3:30PM
+
+[Spinning Up Paper Link](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
